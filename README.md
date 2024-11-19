@@ -1,10 +1,12 @@
-## Hi there 👋
+## **<div align="center"> 어제보다 더 나은 오늘이 되기 </div>**
 
-Skills
+**<div align="center"> Skills </div>**
+<div align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+</div>
 <!--
 **LeeBongwon94/LeeBongwon94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
