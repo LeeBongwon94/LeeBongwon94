@@ -1,4 +1,4 @@
-## **<div align="center"> 어제보다 더 나은 오늘이 되기 </div>**
+## **<div align="center"> 어제보다 더 나은 내일이 되기 </div>**
 
 **<div align="center"> Skills </div>**
 <div align="center">
